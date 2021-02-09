@@ -2,9 +2,6 @@
 <h3 align="center">A student from the UK, focusing on back-end development, but always willing to give full stack a go!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callumio&label=Profile%20views&color=0e75b6&style=flat" alt="callumio" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=callumio" alt="callumio" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/callumleslie7" target="blank"><img src="https://img.shields.io/twitter/follow/callumleslie7?logo=twitter&style=for-the-badge" alt="callumleslie7" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
